@@ -1,7 +1,7 @@
-# Referat-Csharp
+# Coursework - C#
  Unity Simple Platformer Template
 
-[Simple Platformer Template](Assets/Image/Demo.png)
+![Simple Platformer Template](Assets/Image/Demo.png)
 
 This template is small, fully functional game that are designed to help understanding simple architecture for game base
 
